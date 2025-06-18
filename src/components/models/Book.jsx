@@ -43,4 +43,4 @@ export default function Book(props) {
   )
 }
 
-useGLTF.preload('/models/potions_of_eternity.glb')
+

@@ -59,4 +59,4 @@ export default function Magic(props) {
       )
     }
     
-    useGLTF.preload('/models/magic_staff-3.glb')
+   
