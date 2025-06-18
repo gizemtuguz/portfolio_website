@@ -170,4 +170,4 @@ export default function Jester(props) {
     </group>
   )
 }
-useGLTF.preload('/models/michael_oc_by__kanbaki.glb')
+
